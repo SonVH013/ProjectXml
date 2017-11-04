@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="AdventureWorksLT2008R2@10.211.55.4" uuid="e3274153-5afc-4fa5-a79b-d2fb715c39f4">
+      <database-info product="Microsoft SQL Server" version="10.00.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.0 for SQL Server" driver-version="6.0.8112.100">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <introspection-schemas>AdventureWorksLT2008R2:*|master:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>
