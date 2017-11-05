@@ -6,6 +6,7 @@ import java.util.List;
 
 @XmlRootElement
 public class ProductList {
+
     private List<Product> productList;
 
     public ProductList() {
@@ -19,7 +20,7 @@ public class ProductList {
         return productList;
     }
 
-    @XmlElement
+    @XmlElement(name = "Product")
     public void setProductList(List<Product> productList) {
         this.productList = productList;
     }

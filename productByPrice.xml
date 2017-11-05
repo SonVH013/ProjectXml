@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productList>
+    <Product>
+        <Category>Road Frames</Category>
+        <Id>680</Id>
+        <Name>HL Road Frame - Black, 58</Name>
+        <Color>Black</Color>
+        <Standard_code>1059.3100</Standard_code>
+        <Size>58</Size>
+        <SellStartDate>2002-06-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Frames</Category>
+        <Id>706</Id>
+        <Name>HL Road Frame - Red, 58</Name>
+        <Color>Red</Color>
+        <Standard_code>1059.3100</Standard_code>
+        <Size>58</Size>
+        <SellStartDate>2002-06-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>749</Id>
+        <Name>Road-150 Red, 62</Name>
+        <Color>Red</Color>
+        <Standard_code>2171.2942</Standard_code>
+        <Size>62</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>750</Id>
+        <Name>Road-150 Red, 44</Name>
+        <Color>Red</Color>
+        <Standard_code>2171.2942</Standard_code>
+        <Size>44</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>751</Id>
+        <Name>Road-150 Red, 48</Name>
+        <Color>Red</Color>
+        <Standard_code>2171.2942</Standard_code>
+        <Size>48</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>752</Id>
+        <Name>Road-150 Red, 52</Name>
+        <Color>Red</Color>
+        <Standard_code>2171.2942</Standard_code>
+        <Size>52</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>753</Id>
+        <Name>Road-150 Red, 56</Name>
+        <Color>Red</Color>
+        <Standard_code>2171.2942</Standard_code>
+        <Size>56</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>771</Id>
+        <Name>Mountain-100 Silver, 38</Name>
+        <Color>Silver</Color>
+        <Standard_code>1912.1544</Standard_code>
+        <Size>38</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>772</Id>
+        <Name>Mountain-100 Silver, 42</Name>
+        <Color>Silver</Color>
+        <Standard_code>1912.1544</Standard_code>
+        <Size>42</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>773</Id>
+        <Name>Mountain-100 Silver, 44</Name>
+        <Color>Silver</Color>
+        <Standard_code>1912.1544</Standard_code>
+        <Size>44</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>774</Id>
+        <Name>Mountain-100 Silver, 48</Name>
+        <Color>Silver</Color>
+        <Standard_code>1912.1544</Standard_code>
+        <Size>48</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>775</Id>
+        <Name>Mountain-100 Black, 38</Name>
+        <Color>Black</Color>
+        <Standard_code>1898.0944</Standard_code>
+        <Size>38</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>776</Id>
+        <Name>Mountain-100 Black, 42</Name>
+        <Color>Black</Color>
+        <Standard_code>1898.0944</Standard_code>
+        <Size>42</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>777</Id>
+        <Name>Mountain-100 Black, 44</Name>
+        <Color>Black</Color>
+        <Standard_code>1898.0944</Standard_code>
+        <Size>44</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>778</Id>
+        <Name>Mountain-100 Black, 48</Name>
+        <Color>Black</Color>
+        <Standard_code>1898.0944</Standard_code>
+        <Size>48</Size>
+        <SellStartDate>2005-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2006-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>779</Id>
+        <Name>Mountain-200 Silver, 38</Name>
+        <Color>Silver</Color>
+        <Standard_code>1265.6195</Standard_code>
+        <Size>38</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>780</Id>
+        <Name>Mountain-200 Silver, 42</Name>
+        <Color>Silver</Color>
+        <Standard_code>1265.6195</Standard_code>
+        <Size>42</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>781</Id>
+        <Name>Mountain-200 Silver, 46</Name>
+        <Color>Silver</Color>
+        <Standard_code>1265.6195</Standard_code>
+        <Size>46</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>782</Id>
+        <Name>Mountain-200 Black, 38</Name>
+        <Color>Black</Color>
+        <Standard_code>1251.9813</Standard_code>
+        <Size>38</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>783</Id>
+        <Name>Mountain-200 Black, 42</Name>
+        <Color>Black</Color>
+        <Standard_code>1251.9813</Standard_code>
+        <Size>42</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Mountain Bikes</Category>
+        <Id>784</Id>
+        <Name>Mountain-200 Black, 46</Name>
+        <Color>Black</Color>
+        <Standard_code>1251.9813</Standard_code>
+        <Size>46</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>789</Id>
+        <Name>Road-250 Red, 44</Name>
+        <Color>Red</Color>
+        <Standard_code>1518.7864</Standard_code>
+        <Size>44</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2007-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>790</Id>
+        <Name>Road-250 Red, 48</Name>
+        <Color>Red</Color>
+        <Standard_code>1518.7864</Standard_code>
+        <Size>48</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2007-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>791</Id>
+        <Name>Road-250 Red, 52</Name>
+        <Color>Red</Color>
+        <Standard_code>1518.7864</Standard_code>
+        <Size>52</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <SellEndDate>2007-06-30 00:00:00.0</SellEndDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>792</Id>
+        <Name>Road-250 Red, 58</Name>
+        <Color>Red</Color>
+        <Standard_code>1554.9479</Standard_code>
+        <Size>58</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>793</Id>
+        <Name>Road-250 Black, 44</Name>
+        <Color>Black</Color>
+        <Standard_code>1554.9479</Standard_code>
+        <Size>44</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>794</Id>
+        <Name>Road-250 Black, 48</Name>
+        <Color>Black</Color>
+        <Standard_code>1554.9479</Standard_code>
+        <Size>48</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>795</Id>
+        <Name>Road-250 Black, 52</Name>
+        <Color>Black</Color>
+        <Standard_code>1554.9479</Standard_code>
+        <Size>52</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>796</Id>
+        <Name>Road-250 Black, 58</Name>
+        <Color>Black</Color>
+        <Standard_code>1554.9479</Standard_code>
+        <Size>58</Size>
+        <SellStartDate>2006-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>954</Id>
+        <Name>Touring-1000 Yellow, 46</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>46</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>955</Id>
+        <Name>Touring-1000 Yellow, 50</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>50</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>956</Id>
+        <Name>Touring-1000 Yellow, 54</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>54</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>957</Id>
+        <Name>Touring-1000 Yellow, 60</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>60</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>966</Id>
+        <Name>Touring-1000 Blue, 46</Name>
+        <Color>Blue</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>46</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>967</Id>
+        <Name>Touring-1000 Blue, 50</Name>
+        <Color>Blue</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>50</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>968</Id>
+        <Name>Touring-1000 Blue, 54</Name>
+        <Color>Blue</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>54</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Touring Bikes</Category>
+        <Id>969</Id>
+        <Name>Touring-1000 Blue, 60</Name>
+        <Color>Blue</Color>
+        <Standard_code>1481.9379</Standard_code>
+        <Size>60</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>973</Id>
+        <Name>Road-350-W Yellow, 40</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1082.5100</Standard_code>
+        <Size>40</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>974</Id>
+        <Name>Road-350-W Yellow, 42</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1082.5100</Standard_code>
+        <Size>42</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>975</Id>
+        <Name>Road-350-W Yellow, 44</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1082.5100</Standard_code>
+        <Size>44</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+    <Product>
+        <Category>Road Bikes</Category>
+        <Id>976</Id>
+        <Name>Road-350-W Yellow, 48</Name>
+        <Color>Yellow</Color>
+        <Standard_code>1082.5100</Standard_code>
+        <Size>48</Size>
+        <SellStartDate>2007-07-01 00:00:00.0</SellStartDate>
+        <ModifyDate>2008-03-11 10:01:36.827</ModifyDate>
+    </Product>
+</productList>

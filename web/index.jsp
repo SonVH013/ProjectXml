@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <p>Invoke to servlet. CLick here: <a href="MyServlet"></a> </p>
   </body>
 </html>
